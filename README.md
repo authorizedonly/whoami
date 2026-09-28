@@ -1,8 +1,8 @@
 # whoami
 
-Nice to meet you Szymon!
+Nice to meet you Balthazar!
 
-Likewise, Lucien..
+Likewise, Cyrus..
 
 Do you believe in what you see?
 
